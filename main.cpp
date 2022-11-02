@@ -5,7 +5,7 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	const int size = 15;
-	int a[size], i, n;
+	int a[size], i;
     int arlength = 2;
     int mx_arlength = 2;
     int last_number = 0;
